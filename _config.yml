@@ -8,7 +8,7 @@ language: 'en-uk'
 baseurl: /jasper2/asdf
 
 # Website info
-title: rise1220
+title: Ghost
 description: The professional publishing platform
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
